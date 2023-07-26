@@ -1,6 +1,6 @@
-# XCoreOsc
+# XCore-OSC-Public 
 
-is a osc event logger for vrc
+is a osc/Gema event logger for vrc
 
 its log join left 
 
